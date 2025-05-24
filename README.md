@@ -19,13 +19,6 @@ Travel Yatra is a Flutter-based mobile app designed to help travelers explore po
 - 🚦 Smooth navigation between screens  
 - 🎨 Clean UI using Flutter’s Material Design  
 
----
-
-## 📸 Screenshots
-
-Add screenshots here to showcase your app!
-
----
 
 ## 🛠 Getting Started
 
@@ -62,22 +55,3 @@ Add screenshots here to showcase your app!
 - ⭐ User profiles with favorites & preferences  
 - 🌦 Live weather & travel alerts integration  
 
----
-
-## 📬 Contact
-
-Mahesh Konnepati  
-📧 vkonnepati36@jnn.edu.in  
-📞 7989704550  
-📍 Nellore, India  
-
----
-
-## 📜 License
-
-This project is for educational purposes only.
-
----
-
-Thank you for exploring Travel Yatra!  
-Feel free to reach out with questions or ideas for collaboration. 🚀
